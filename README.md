@@ -1,2 +1,8 @@
 - Hi, I’m @dxnty
-- How to reach me: send me an email to ' dxnty@protonmail.ch '
+- 
+- How to reach me {
+- 
+- sendEmail("cardevlop@gmail.com");
+- checkMyIg("ccarlopersini");
+- 
+}
