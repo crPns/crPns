@@ -3,6 +3,5 @@
 - How to reach me {
 - 
 - sendEmail("cardevlop@gmail.com");
-- checkMyIg("ccarlopersini");
 - 
 }
