@@ -1,4 +1,4 @@
 - Hi, I’m @dxnty [ the 'x' must be read as an 'a' ]
 - How to reach me {
-- ->  sendEmail("carlopersini@gmail.com");
+- ->  sendEmail("carlopersini@protonmail.com");
 - }
